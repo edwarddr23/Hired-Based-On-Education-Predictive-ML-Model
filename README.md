@@ -5,6 +5,9 @@ Original data found from here: https://archive.ics.uci.edu/dataset/17/breast+can
 Information on the data's columns is in file: wdbc.names
 The output files here are what results from running these scripts.
 _____________________________________________________________________________
+ML Model:
+Random Forest Tree
+_____________________________________________________________________________
 Output:
 Outputs to OUTPUT whether the test value will be diagnosed with a malignant (1) or benign tumor (0).
 _____________________________________________________________________________
