@@ -4,6 +4,9 @@ Data Information:
 Information on the data's columns is in input.txt in the first line.
 The output file "OUTPUT" here is what results from running these scripts.
 _____________________________________________________________________________
+ML Model:
+Random Forest Tree
+_____________________________________________________________________________
 Output:
 Outputs to OUTPUT whether the test value is hired or not as 1 (Yes) or 0 (No).
 _____________________________________________________________________________
